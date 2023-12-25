@@ -30,3 +30,23 @@ policies
 standards
 procedures
 
+types of security controls-
+technical
+operational and 
+managerial
+
+pii - personally identifable information
+any information that cna be used to infer an individual identity
+
+cryptography
+the process of transforming information into a from that unintended readers cant understand
+
+cipher 
+an algorithm tht encrypts informatin
+
+symmetric encryption
+the use of single secret key to exchange information
+
+hash function 
+an algorithm that produces a code that cant be decrypted.
+
