@@ -50,3 +50,7 @@ the use of single secret key to exchange information
 hash function 
 an algorithm that produces a code that cant be decrypted.
 
+exposures - mistakes that can be exploited by the threats.
+
+common vulnerabilities and exposures list.
+
